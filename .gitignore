@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Miscellaneous
 *.class
 *.log
@@ -43,3 +44,8 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+=======
+# https://dart.dev/guides/libraries/private-files
+# Created by `dart pub`
+.dart_tool/
+>>>>>>> 5d0aa0ee14ade48a23ac94f3c99755e36616bbdf
